@@ -1,3 +1,5 @@
+var myFriends =["Eric", "Daniel", "Brandon", "Tyffani", "Erica"];
+
 document.addEventListener('DOMContentLoaded', function(){
 
     var button = document.createElement('button');
